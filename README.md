@@ -14,4 +14,4 @@ Gene expression cancer RNA-seq data was used in this project. The source of the 
 - Neural network.
 
 ## Note
-This projectvid an ongoing endeavor. I shall highly appreciate any comments, suggestions, and critiques you may have about it.
+This project is an ongoing endeavor. I shall highly appreciate any comments, suggestions, and critiques you may have about it.
